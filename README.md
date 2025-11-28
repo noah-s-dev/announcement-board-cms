@@ -98,7 +98,7 @@ announcement-board-cms/
 
 1. **Clone or Download the Project**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/noah-s-dev/announcement-board-cms.git
    cd announcement-board-cms
    ```
 
@@ -200,30 +200,10 @@ This Announcement Board CMS is designed for:
 
 **License for RiverTheme**
 
-[RiverTheme.com](https://RiverTheme.com) makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
+RiverTheme makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
 
 **Disclaimer**
 
 The free version is offered "as is" with no warranty and might not function on all devices or browsers. It might also have some coding or security flaws. For additional information or to get a Pro license, please get in touch with [RiverTheme.com](https://RiverTheme.com).
 
 ---
-
-## 🤝 Support
-
-For technical support, feature requests, or questions:
-- Check the troubleshooting section in the documentation
-- Review error logs in the `logs/` directory
-- Contact [RiverTheme.com](https://RiverTheme.com) for professional support
-
-## 🔄 Updates
-
-To update the system:
-1. Backup your database and files
-2. Replace files with new versions
-3. Run any new database migrations
-4. Test functionality thoroughly
-
----
-
-**Remember**: Always delete `admin/setup.php` after creating your admin account for security!
-
